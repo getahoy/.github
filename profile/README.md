@@ -5,6 +5,8 @@
 
 Ahoy is a voice assistant that lets you control your Mac from your phone. It's like Wispr Flow, but it acts instead of typing: hold to talk, say *"open Notion"* or *"search the news"*, and it's done.
 
+<a href="https://drive.google.com/file/d/1JMgSd2bm7LtUCs2WxiTNWuo0-bijqs4p/view?usp=sharing"><img src="assets/demo-thumbnail.png" alt="Watch the 1:45 demo" width="100%"></a>
+
 ### How it works
 
 1. **Pair once.** The Mac app shows a QR code; scan it with the Ahoy iPhone app.
